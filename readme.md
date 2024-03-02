@@ -6,8 +6,7 @@ Este é um aplicativo da web simples que permite traduzir palavras de inglês pa
 
 - Java,jsp
 - html e css
-- Apache Maven instalado
-- Servidor Apache Tomcat instalado ou configurado
+- Servidor Apache Tomcat
 
 ## Como usar
 
